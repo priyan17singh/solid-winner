@@ -11,7 +11,7 @@ from dataclasses import dataclass
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 
-from src.exceptions import CustomException
+from src.exception import CustomException
 
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder,StandardScaler
