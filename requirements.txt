@@ -5,5 +5,5 @@ scikit-learn
 catboost
 xgboost
 flask
-dill
+gunicorn
 -e .
