@@ -7,7 +7,7 @@ It helps students, teachers, and learners **experiment with ML predictions** in 
 
 ## 🌐 Live Demo  
 
-👉 [**Try it here**](#)
+👉 [**Try it here**](https://predicted.onrender.com)
 
 ---
 
