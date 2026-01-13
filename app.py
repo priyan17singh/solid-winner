@@ -43,7 +43,7 @@ def predict_datapoint():
     logging.info("Prediction completed.")
     
     return render_template(
-        'index.html',
+        'home.html',
         results=round(results[0], 2)
     )
 
